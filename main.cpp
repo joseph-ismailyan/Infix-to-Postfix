@@ -1,4 +1,4 @@
-// Joseph Ismailyan && Jordan Carlile
+// Joseph Ismailyan
 // infix to postfix converter and evaluator
 
 #include <iostream>
